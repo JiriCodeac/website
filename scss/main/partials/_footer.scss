@@ -14,8 +14,10 @@ Footer is great for mentioning authors or other useful information that are not 
 
 .footer {
   background: $gray-100;
+  font-size: 1.5rem;
   margin-top: 3rem;
   padding: 1rem;
+  
 
   .col-12 {
     position: unset !important;
@@ -25,6 +27,6 @@ Footer is great for mentioning authors or other useful information that are not 
     border-top: .0625rem solid $gray-500;
     font-size: 1rem;
     margin-top: 1rem;
-    padding: .5rem 0;
+    padding: 0.5rem 0;
   }
 }
